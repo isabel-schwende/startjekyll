@@ -3,7 +3,7 @@ title: Doc test
 email: isabel@eyeem.com
 description: >
   A dummy test for doc page.
-baseurl: "/doc"
+baseurl: "/startjekyll"
 url: "http://isabel-schwende.github.io"
 
 github_username:  isabel-schwende
