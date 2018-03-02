@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
+Mobius Labs GmbH
+Berlin, Germany
 
-My e-mail is [email@something.com](mailto:email@something.com).
+My e-mail is [hey@mobius.ml](mailto: hey@mobius.ml).
