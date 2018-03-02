@@ -2,9 +2,14 @@ theme: jekyll-theme-slate
 
 # Site Settings
 title: Doc test
-email: isabel@eyeem.com
-description: >
-  A dummy test for doc page.
+tagline: Filter images with AI magic
+author :
+  name : Isabel Schwende
+  email : isabel@eyeem.com
+  github : isabel-schwende
+description: > 
+  We're on a mission to enable users to easily filter their images for the content they are looking for. We have an AI system that automatically analyzes the content and style of an image. Don't waste your time filtering and sorting your images when you can do it with our SDK automatically.  
+
 baseurl: "/startjekyll"
 url: "http://isabel-schwende.github.io"
 
