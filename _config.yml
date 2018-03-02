@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: Doc test
+email: isabel@eyeem.com
 description: >
-  A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+  A dummy test for doc page.
+baseurl: "/doc"
+url: "http://isabel-schwende.github.io"
+
+github_username:  isabel-schwende
 # Build Settings
 sass:
   sass_dir: _sass
